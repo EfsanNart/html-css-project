@@ -2,5 +2,5 @@
 
 
 ### Responsive Screen
-![menu](responsivescreen.png) 
+![menu](responsiveScreen.png) 
  

@@ -16,6 +16,7 @@ body{
     
 }
 a{
+    font-size: 0.66rem;
     text-decoration: none;
     color: #fff;
 }
@@ -53,9 +54,10 @@ html{
   #navbar{
     flex-direction: column;
     padding-top:0.2rem;
-    padding-bottom: 0.2rem;
+    padding-bottom: 0.7rem;
     overflow: hidden;
     height: 80px;
+    
 } 
 }
 @media(max-width:768px){
@@ -68,6 +70,7 @@ html{
 }
 #navbar ul li a{
     padding: 0.6rem;
+    
 }
 .container{
     max-width: 1000px;
