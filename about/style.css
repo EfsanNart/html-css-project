@@ -19,11 +19,17 @@
   
 
   .about-section {
-    padding: 15px;
+    background: rgba(80, 79, 77, 0.589);
+    box-shadow: 0 0 20px 9px #6865641e;
     text-align: center;
-    background-color: #020303;
     color: white;
     
+  }
+  .about-section h1{
+    font-size: 45px;
+  }
+  .about-section p{
+    font-size: 20px;
   }
   .text{
     font-size: larger;
